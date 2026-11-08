@@ -16,3 +16,6 @@ A: Valve - Entertainment: Video Games
 Auto Quiz - New York 🧠
 Q: What language does Node.js use?
 A: JavaScript - Science: Computers
+Auto Quiz - Pyramids 🧠
+Q: Who succeded Josef Stalin as the leader of the Soviet Union?
+A: Nikita Krushchev - History
