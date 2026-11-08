@@ -40,3 +40,4 @@ Future - pubmed-PMC3339227 - Neurological soft signs in schizophrenia - The past
 Future - futureofmonetary0000vari - The Future of Monetary Policy
 Freedom - freedombureaucra0000unse - Freedom, Bureaucracy, & Schooling
 Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
+Hope - emergenceofhope0000jeff - Emergence of Hope
