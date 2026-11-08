@@ -13,3 +13,6 @@ A: Transylvania - Geography
 Auto Quiz - Tokyo 🧠
 Q: Who created the digital distribution platform Steam?
 A: Valve - Entertainment: Video Games
+Auto Quiz - New York 🧠
+Q: What language does Node.js use?
+A: JavaScript - Science: Computers
