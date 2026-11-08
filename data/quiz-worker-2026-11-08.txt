@@ -19,3 +19,6 @@ A: JavaScript - Science: Computers
 Auto Quiz - Pyramids 🧠
 Q: Who succeded Josef Stalin as the leader of the Soviet Union?
 A: Nikita Krushchev - History
+Auto Quiz - Taj Mahal 🧠
+Q: Whose 2016 presidential campaign slogan was "Make America Great Again"?
+A: Donald Trump - Politics
