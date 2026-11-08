@@ -60,3 +60,4 @@ Sushi - twitch-chat-102584165 - Twitch chat logs from BlueEyes_und_Sushi
 Sushi - sashimisushiarto0000fuku - Sashimi & sushi : the art of Japanese food made simple
 Kyoto - environmentalsys0002unse - Environmental systems planning, design, and control : proceedings of the IFAC symposium, Kyoto, Japan, 1-5 August 1977
 Kyoto - historicalkyotow0000plut - Historical Kyoto : with illustrations and guide maps
+Osaka - arxiv-1704.00985 - Market Efficiency and Price Stabilization Policy in Interwar Osaka-Dojima Rice Exchange
