@@ -85,3 +85,6 @@ A: A-Spec - Entertainment: Video Games
 Auto Quiz - Kyoto 🧠
 Q: What type of animal is a natterjack?
 A: Toad - Animals
+Auto Quiz - Osaka 🧠
+Q: In which series of games do you collect souls to empower you and buy weaponry and armor with?
+A: Souls  - Entertainment: Video Games
