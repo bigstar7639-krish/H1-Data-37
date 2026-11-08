@@ -5,3 +5,4 @@ Mumbai - pubmed-PMC3148620 - Chlorine leak on Mumbai Port Trust's Sewri yard: A 
 London - bwb_S0-BQG-892 - The Best Short Stories of Jack London
 London - bwb_Y0-ACH-505 - mental illness in london
 Paris - bwb_T5-CWR-045 - Six Summers in Paris 1789-1794
+Paris - bwb_W9-CUE-201 - Une Americaine A Paris
